@@ -9,6 +9,5 @@ DEBUG = True
 # Connect to the database
 
 
-# TODO IMPLEMENT DATABASE URL
 SQLALCHEMY_DATABASE_URI = 'postgres://vivek:rootroot@127.0.0.1:5432/fyyur'
 SQLALCHEMY_TRACK_MODIFICATIONS = False
